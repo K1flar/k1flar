@@ -37,7 +37,7 @@
 <div id='statistics'>
     <h3> 🔥 Моя статистика</h3>
     <div align='center'>
-        <img src='https://github-readme-streak-stats.herokuapp.com/?user=k1flar&theme=dark&hide_border=true'>
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=k1flar&theme=dark&hide_border=true'>
+        <div><img src='https://github-readme-streak-stats.herokuapp.com/?user=k1flar&theme=dark&hide_border=true'></div>
+        <div><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=k1flar&theme=dark&hide_border=true&disable_animations=true'></div>
     </div>
 </div>
