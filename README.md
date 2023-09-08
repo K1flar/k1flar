@@ -14,7 +14,7 @@
 <div id='about'>
     <h3> 📝 Обо мне </h3>
     <ul>
-        <li> 👩‍💻 Я JavaScript / TypeScript разработчик </li>
+        <li> 👨‍💻 Я JavaScript / TypeScript разработчик </li>
         <li> 🔥 Являюсь студентом <span style="color:#44eb99">Школы 21</span> </li>
         <li> ⚙️ Учусь на инженера в МАИ </li>
         <li> ⚡ В свободное время прокачиваю свои навыки </li>
