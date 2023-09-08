@@ -2,10 +2,10 @@
 <div id='header' align='center'>
     <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN0MGlhczNrc3RzdGVvN2gxbWN5ODg2OXpyZGVjYjJtNHp6cGV4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14v8A3AX3A8lu8/giphy.gif' height='50%'>
     <br>
-    <a href='https://t.me/by_syntax' target='blank'>
+    <a href='https://t.me/by_syntax' target='_blank'>
         <img src='https://img.shields.io/badge/Telegram-28A7E8?logo=telegram&logoColor=white&style=for-the-badge'>
     </a>
-    <a href='https://vk.com/designer_davydov' target='blank'>
+    <a href='https://vk.com/designer_davydov' target='_blank'>
         <img src='https://img.shields.io/badge/vk-0077FF?logo=vk&logoColor=white&style=for-the-badge'>
     </a>
     <h2>Привет!👋 Меня зовут Денис</h2>
