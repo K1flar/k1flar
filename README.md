@@ -14,7 +14,7 @@
 <div id='about'>
     <h3> 📝 Обо мне </h3>
     <ul>
-        <li> 👨‍💻 Я JavaScript / TypeScript разработчик </li>
+        <li> 👨‍💻 Я Golang разработчик </li>
         <li> 🔥 Являюсь студентом <span style="color:#44eb99">Школы 21</span> </li>
         <li> ⚙️ Учусь на инженера в МАИ </li>
         <li> ⚡ В свободное время прокачиваю свои навыки </li>
@@ -24,6 +24,9 @@
 
 <div id='technologies'>
     <h3> 🛠 Используемые технологии </h3>
+    <img src='https://img.shields.io/badge/go-50b7e0?logo=go&style=for-the-badge&logoColor=white'>
+    <img src='https://img.shields.io/badge/sql-04AA6D?logo=sql&style=for-the-badge&logoColor=white'>
+    <img src='https://img.shields.io/badge/postgresql-50b0f0?logo=postgresql&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/js-yellow?logo=javascript&logoColor=white&style=for-the-badge'>
     <img src='https://img.shields.io/badge/ts-blue?logo=typescript&logoColor=white&style=for-the-badge'>
     <img src='https://img.shields.io/badge/react-00bdd6?logo=react&logoColor=white&style=for-the-badge'>
@@ -38,6 +41,6 @@
     <h3> 🔥 Моя статистика</h3>
     <div align='center'>
         <div><img src='https://github-readme-streak-stats.herokuapp.com/?user=k1flar&theme=dark&hide_border=true'></div>
-        <div><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=k1flar&theme=dark&hide_border=true&disable_animations=true'></div>
+<!--         <div><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=k1flar&theme=dark&hide_border=true&disable_animations=true'></div> -->
     </div>
 </div>
